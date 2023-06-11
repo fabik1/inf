@@ -1,0 +1,57 @@
+.baner {
+  background-color: #18ffa4;
+  height: 50px;
+}
+
+.lewy {
+  background-color: #aeffcf;
+  height: 550px;
+  width: 30%;
+}
+
+.srodkowy {
+  background-color: #ddffcd;
+  height: 550px;
+  width: 40%;
+}
+
+.prawy {
+  background-color: #aeffcf;
+  height: 550px;
+  width: 30%;
+}
+
+.stopka {
+  background-color: #18ffa4;
+  height: 50px;
+  text-align: center;
+}
+
+ul {
+  margin-left: 100px;
+}
+
+img {
+  margin: 100px;
+}
+
+form {
+  margin-left: 150px;
+}
+
+h4 {
+  margin-left: 100px;
+}
+
+h2,
+h3 {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.stopka p {
+  margin-top: 0;
+}
