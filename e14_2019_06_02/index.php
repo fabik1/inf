@@ -56,6 +56,7 @@
                     print $kwota;
                 }
             }
+           $conn->close();
         ?>
     </section>
     <section class="prawy">
